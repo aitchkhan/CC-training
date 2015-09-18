@@ -3,7 +3,7 @@
  */
 'use strict';
 
-angular.module('ccApp', [
+angular.module('CC-training', [
     'ngCookies',
     'ngResource',
     'ngSanitize',
